@@ -44,6 +44,9 @@ If the dealer won you will lose your bit.
 After that you can start playing again by arranging the amount of bit you want and press bit.
 
 
+Fisher-Yates Shuffle has been used refere to https://medium.com/swlh/the-javascript-shuffle-62660df19a5d
+
+
 ## Getting Started
 
 - Fork and Clone this repo
