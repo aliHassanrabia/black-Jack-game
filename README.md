@@ -46,7 +46,9 @@ After that you can start playing again by arranging the amount of bit you want a
 
 Fisher-Yates Shuffle has been used refere to https://medium.com/swlh/the-javascript-shuffle-62660df19a5d
 
-also i used this website to get an idea  https://www.thatsoftwaredude.com/pages/9195/full-source-for-deck-of-cards 
+also i used this website to get an idea  https://www.thatsoftwaredude.com/pages/9195/full-source-for-deck-of-cards
+
+// https://www.thatsoftwaredude.com/content/6196/coding-a-card-deck-in-javascript
 
 
 ## Getting Started
