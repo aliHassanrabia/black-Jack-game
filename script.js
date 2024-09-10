@@ -133,7 +133,7 @@ stayButton.addEventListener('click', () => {
   if (dealerScore > 21 || playerScore > dealerScore) {
     dealCard()
     setTimeout(() => {
-      endGame('you win!!!!')
+      endGame('you win...😃')
     }, 1000)
   } else if (playerScore < dealerScore) {
     dealCard()
@@ -143,7 +143,7 @@ stayButton.addEventListener('click', () => {
   } else {
     dealCard()
     setTimeout(() => {
-      endGame('its a tie ')
+      endGame('its a tie...😮')
     }, 1000)
   }
 })
