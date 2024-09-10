@@ -39,6 +39,8 @@ If the dealer won an alert will be shown to inform you.
 
 After that you can start playing again by pressing place bet again.
 
+## References
+
 for shuffle i took an idea from (https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
 
 in handelbet function i viewed https://stackoverflow.com/questions/42120046/typescript-isnan-only-accepts-a-number
