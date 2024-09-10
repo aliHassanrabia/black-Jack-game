@@ -115,22 +115,35 @@ hitButton.addEventListener('click', () => {
   updateDisplay()
   const playerHandScore = calculateScore(playerHand)
   if (playerHandScore > 21) {
-    endGame('Player busts, you lost.')
+    dealCard()
+    setTimeout(() => {
+      endGame('Player busts, you lost.')
+    }, 1000)
   }
 })
-
 stayButton.addEventListener('click', () => {
   while (calculateScore(dealerHand) < 17) {
     dealerHand.push(dealCard())
     updateDisplay()
   }
+
   const dealerScore = calculateScore(dealerHand)
   const playerScore = calculateScore(playerHand)
+
   if (dealerScore > 21 || playerScore > dealerScore) {
-    endGame('you wins!!')
+    dealCard()
+    setTimeout(() => {
+      endGame('you win!!!!')
+    }, 1000)
   } else if (playerScore < dealerScore) {
-    endGame('Dealer wins!')
+    dealCard()
+    setTimeout(() => {
+      endGame('Pyou lose')
+    }, 1000)
   } else {
-    endGame("It's a tie!")
+    dealCard()
+    setTimeout(() => {
+      endGame('its a tie ')
+    }, 1000)
   }
 })
