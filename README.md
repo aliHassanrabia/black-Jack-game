@@ -44,9 +44,9 @@ If the dealer won you will lose your bit.
 After that you can start playing again by arranging the amount of bit you want and press bit.
 
 
-for shuffle i took an idea from  https://www.thatsoftwaredude.com/pages/9195/full-source-for-deck-of-cards
+for shuffle i took an idea from  (https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
 
-// https://www.thatsoftwaredude.com/content/6196/coding-a-card-deck-in-javascript
+
 
 
 ## Getting Started
