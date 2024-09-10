@@ -117,7 +117,7 @@ hitButton.addEventListener('click', () => {
   if (playerHandScore > 21) {
     dealCard()
     setTimeout(() => {
-      endGame('Player busts, you lost.')
+      endGame('Player busts, you lost..😔')
     }, 1000)
   }
 })
@@ -138,7 +138,7 @@ stayButton.addEventListener('click', () => {
   } else if (playerScore < dealerScore) {
     dealCard()
     setTimeout(() => {
-      endGame('Pyou lose')
+      endGame('you lose...😔')
     }, 1000)
   } else {
     dealCard()
