@@ -39,6 +39,10 @@ If the dealer won an alert will be shown to inform you.
 
 After that you can start playing again by pressing place bet again.
 
+## Game screenshoots
+
+![firstpage](https://i.imgur.com/FskGP17.png)
+
 ## References
 
 for shuffle i took an idea from https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
