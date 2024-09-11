@@ -43,6 +43,10 @@ After that you can start playing again by pressing place bet again.
 
 ![firstpage](https://i.imgur.com/FskGP17.png)
 
+![secondpage](https://i.imgur.com/X9VNHxI.png)
+
+![thirdpage](https://i.imgur.com/ii5L1sJ.png)
+
 ## References
 
 for shuffle i took an idea from https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
