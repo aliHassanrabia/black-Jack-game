@@ -39,7 +39,7 @@ If the dealer won an alert will be shown to inform you.
 
 After that you can start playing again by pressing place bet again.
 
-## Game screenshoots
+## Game screenshots
 
 ![firstpage](https://i.imgur.com/FskGP17.png)
 
