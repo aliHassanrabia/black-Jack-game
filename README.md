@@ -43,8 +43,6 @@ After that you can start playing again by pressing place bet again.
 
 for shuffle i took an idea from (https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
 
-in handelbet function i viewed https://stackoverflow.com/questions/42120046/typescript-isnan-only-accepts-a-number
-
 delay by using setTimeout, idea from https://www.sitepoint.com/delay-sleep-pause-wait/#:~:text=The%20standard%20way%20of%20creating,after%20two%20seconds%20%E2%80%9CWorld!%E2%80%9D
 
 ## Getting Started
